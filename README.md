@@ -17,3 +17,4 @@
 ### *[JavaScript](https://github.com/ravencrown/noteBook/issues/11)*
 ### *[Webpack相关](https://github.com/ravencrown/noteBook/issues/10)*
 ### *[小程序原理相关](https://github.com/ravencrown/noteBook/issues/14)*
+### *[个人简历分析](https://github.com/ravencrown/noteBook/issues/15)*
