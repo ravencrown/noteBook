@@ -25,7 +25,7 @@
 1. **[第 1 题：简单讲解一下 http2 的多路复用](https://github.com/ravencrown/noteBook/issues/16)**
 2. **[第 2 题：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](https://github.com/ravencrown/noteBook/issues/17)**
 3. **[第 3 题：下面代码中 a 在什么情况下会打印 1？](https://github.com/ravencrown/noteBook/issues/18)**
-4. **[第 4 题：HTTP1.x 和 2.0 有什么区别、http 1.x 的keep-alive 和 http2.0的多路复用的区别]**(https://github.com/ravencrown/noteBook/issues/19)
+4. **[第 4 题：HTTP1.x 和 2.0 有什么区别、http 1.x 的keep-alive 和 http2.0的多路复用的区别](https://github.com/ravencrown/noteBook/issues/19)**
 5. **[第 5 题：TCP 的三次握手和四次挥手](https://github.com/ravencrown/noteBook/issues/20)**
 6. **[第 6 题：304状态码机制是什么？301和302有什么区别？](https://github.com/ravencrown/noteBook/issues/21)**
 7. **[第 7 题：表单提交有哪些content-type？](https://github.com/ravencrown/noteBook/issues/22)**
