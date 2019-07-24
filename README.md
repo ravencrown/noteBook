@@ -37,8 +37,9 @@
 13. **[第 13 题：实现一个call、apply、bind](https://github.com/ravencrown/noteBook/issues/29)**
 14. **[第 14 题：实现一个深度拷贝](https://github.com/ravencrown/noteBook/issues/28)**
 15. **[第 15 题：Webpack面试题](https://github.com/ravencrown/noteBook/issues/30)**
-
-
+16. **[第 16 题：详解vue 的生命周期，created 和mounted，一般用来作什么？](https://github.com/ravencrown/noteBook/issues/31)**
+17. **[第 17 题：Vue 常考基础知识点](https://github.com/ravencrown/noteBook/issues/32)**
+18. **[第 18 题：Vue 进阶考点](https://github.com/ravencrown/noteBook/issues/33)**
 
 
 
