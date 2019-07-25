@@ -40,7 +40,8 @@
 16. **[第 16 题：详解vue 的生命周期，created 和mounted，一般用来作什么？](https://github.com/ravencrown/noteBook/issues/31)**
 17. **[第 17 题：Vue 常考基础知识点](https://github.com/ravencrown/noteBook/issues/32)**
 18. **[第 18 题：Vue 进阶考点](https://github.com/ravencrown/noteBook/issues/33)**
-
+19. **[第 19 题：Vue 零碎考点](https://github.com/ravencrown/noteBook/issues/34)**
+20. **[第 20 题：BFC、垂直居中、响应式布局](https://github.com/ravencrown/noteBook/issues/35)**
 
 
 
