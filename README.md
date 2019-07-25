@@ -42,6 +42,10 @@
 18. **[第 18 题：Vue 进阶考点](https://github.com/ravencrown/noteBook/issues/33)**
 19. **[第 19 题：Vue 零碎考点](https://github.com/ravencrown/noteBook/issues/34)**
 20. **[第 20 题：BFC、垂直居中、响应式布局](https://github.com/ravencrown/noteBook/issues/35)**
+21. **[第 21 题：JS类型判断](https://github.com/ravencrown/noteBook/issues/36)**
+22. **[第 22 题：前端从网络层面如何优化？](https://github.com/ravencrown/noteBook/issues/37)**
+23. **[第 23 题：如何定位网站加载慢，加载慢从哪些方面考虑？](https://github.com/ravencrown/noteBook/issues/38)**
+24. **[第 24 题：小程序运行机制](https://github.com/ravencrown/noteBook/issues/39)**
 
 
 
