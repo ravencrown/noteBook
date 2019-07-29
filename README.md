@@ -46,7 +46,7 @@
 22. **[第 22 题：前端从网络层面如何优化？](https://github.com/ravencrown/noteBook/issues/37)**
 23. **[第 23 题：如何定位网站加载慢，加载慢从哪些方面考虑？](https://github.com/ravencrown/noteBook/issues/38)**
 24. **[第 24 题：小程序运行机制](https://github.com/ravencrown/noteBook/issues/39)**
-
+25. **[第 25 题：localstorage 和 cookie 的区别？](https://github.com/ravencrown/noteBook/issues/40)**
 
 
 
