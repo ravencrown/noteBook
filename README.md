@@ -1,6 +1,7 @@
 ## 面经总结
 
 - **[虾皮](https://github.com/ravencrown/noteBook/issues/2)**
+- **[虾皮二刷](https://github.com/ravencrown/noteBook/issues/44)**
 - **[头条](https://github.com/ravencrown/noteBook/issues/3)**
 - **[微众](https://github.com/ravencrown/noteBook/issues/5)**
 - **[vivo](https://github.com/ravencrown/noteBook/issues/1)**
@@ -49,7 +50,7 @@
 25. **[第 25 题：localstorage 和 cookie 的区别？](https://github.com/ravencrown/noteBook/issues/40)**
 26. **[第 26 题：JS精度问题](https://github.com/ravencrown/noteBook/issues/41)**
 27. **[第 27 题：JS 对象之扩展、密封及冻结三大特性](https://github.com/ravencrown/noteBook/issues/42)**
-
+28. **[]()**
 
 
 
