@@ -50,7 +50,8 @@
 25. **[第 25 题：localstorage 和 cookie 的区别？](https://github.com/ravencrown/noteBook/issues/40)**
 26. **[第 26 题：JS精度问题](https://github.com/ravencrown/noteBook/issues/41)**
 27. **[第 27 题：JS 对象之扩展、密封及冻结三大特性](https://github.com/ravencrown/noteBook/issues/42)**
-28. **[]()**
+28. **[第 28 题：cdn 的原理](https://github.com/ravencrown/noteBook/issues/43)**
+29. **[第 29 题：git的操作](https://github.com/ravencrown/noteBook/issues/45)**
 
 
 
