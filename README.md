@@ -7,6 +7,7 @@
 - **[vivo](https://github.com/ravencrown/noteBook/issues/1)**
 - **[华为](https://github.com/ravencrown/noteBook/issues/6)**
 - **[腾讯yoo视频](https://github.com/ravencrown/noteBook/issues/4)**
+- **[腾讯商业部们](https://github.com/ravencrown/noteBook/issues/49)**
 
 ## 题型总结
 
@@ -52,7 +53,10 @@
 27. **[第 27 题：JS 对象之扩展、密封及冻结三大特性](https://github.com/ravencrown/noteBook/issues/42)**
 28. **[第 28 题：cdn 的原理](https://github.com/ravencrown/noteBook/issues/43)**
 29. **[第 29 题：git的操作](https://github.com/ravencrown/noteBook/issues/45)**
-
+30. **[node的进程之间如何通信的？](https://github.com/ravencrown/noteBook/issues/46)**
+31. **[webpack相关面试题](https://github.com/ravencrown/noteBook/issues/47)**
+32. **[CSRF](https://github.com/ravencrown/noteBook/issues/48)**
+33. **[]()**
 
 
 
