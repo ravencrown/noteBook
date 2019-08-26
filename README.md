@@ -8,6 +8,7 @@
 - **[华为](https://github.com/ravencrown/noteBook/issues/6)**
 - **[腾讯yoo视频](https://github.com/ravencrown/noteBook/issues/4)**
 - **[腾讯商业部们](https://github.com/ravencrown/noteBook/issues/49)**
+- **[腾讯新零售部门](https://github.com/ravencrown/noteBook/issues/55)**
 
 ## 题型总结
 
