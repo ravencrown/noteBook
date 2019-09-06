@@ -67,7 +67,7 @@
 39. **[第 39 题：vue响应式原理的优缺点](https://github.com/ravencrown/noteBook/issues/57)**
 40. **[第 40 题：vue的生命周期](https://github.com/ravencrown/noteBook/issues/58)**
 41. **[第 41 题：vue-router 的底层原理](https://github.com/ravencrown/noteBook/issues/59)**
-
+42. **[第 42 题：vue的8种通信机制](https://github.com/ravencrown/noteBook/issues/61)**
 
 
 
