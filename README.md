@@ -9,6 +9,7 @@
 - **[腾讯yoo视频](https://github.com/ravencrown/noteBook/issues/4)**
 - **[腾讯商业部们](https://github.com/ravencrown/noteBook/issues/49)**
 - **[腾讯新零售部门](https://github.com/ravencrown/noteBook/issues/55)**
+- **[面经：平安产险](https://github.com/ravencrown/noteBook/issues/60)**
 
 ## 题型总结
 
@@ -54,10 +55,23 @@
 27. **[第 27 题：JS 对象之扩展、密封及冻结三大特性](https://github.com/ravencrown/noteBook/issues/42)**
 28. **[第 28 题：cdn 的原理](https://github.com/ravencrown/noteBook/issues/43)**
 29. **[第 29 题：git的操作](https://github.com/ravencrown/noteBook/issues/45)**
-30. **[node的进程之间如何通信的？](https://github.com/ravencrown/noteBook/issues/46)**
-31. **[webpack相关面试题](https://github.com/ravencrown/noteBook/issues/47)**
-32. **[CSRF](https://github.com/ravencrown/noteBook/issues/48)**
-33. **[]()**
+30. **[第 30 题：node的进程之间如何通信的？？](https://github.com/ravencrown/noteBook/issues/46)**
+31. **[第 31 题：webpack相关面试题](https://github.com/ravencrown/noteBook/issues/47)**
+32. **[第 32 题：CSRF](https://github.com/ravencrown/noteBook/issues/48)**
+33. **[第 33 题：前端直出是个什么东西？首屏优化怎么做的？](https://github.com/ravencrown/noteBook/issues/50)**
+34. **[第 34 题：node如何解决异步回调地域](https://github.com/ravencrown/noteBook/issues/51)**
+35. **[第 35 题：express和express 中间件](https://github.com/ravencrown/noteBook/issues/52)**
+36. **[第 36 题：批量异步更新策略及 nextTick 原理](https://github.com/ravencrown/noteBook/issues/53)**
+37. **[第 37 题：编程题1](https://github.com/ravencrown/noteBook/issues/54)**
+38. **[第 38 题：vuex通过什么方式提供响应式数据的？](https://github.com/ravencrown/noteBook/issues/56)**
+39. **[第 39 题：vue响应式原理的优缺点](https://github.com/ravencrown/noteBook/issues/57)**
+40. **[第 40 题：vue的生命周期](https://github.com/ravencrown/noteBook/issues/58)**
+41. **[第 41 题：vue-router 的底层原理](https://github.com/ravencrown/noteBook/issues/59)**
+
+
+
+
+
 
 
 
