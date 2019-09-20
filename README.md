@@ -68,7 +68,7 @@
 40. **[第 40 题：vue的生命周期](https://github.com/ravencrown/noteBook/issues/58)**
 41. **[第 41 题：vue-router 的底层原理](https://github.com/ravencrown/noteBook/issues/59)**
 42. **[第 42 题：vue的8种通信机制](https://github.com/ravencrown/noteBook/issues/61)**
-43. **[第 43 题：web 安全攻防解析](https://github.com/ravencrown/noteBook/issues/62)
+43. **[第 43 题：web 安全攻防解析](https://github.com/ravencrown/noteBook/issues/62)**
 44. **[第 44 题：rem手机端适配](https://github.com/ravencrown/noteBook/issues/63)**
 45. **[第 45 题：从输入URL到页面展示](https://github.com/ravencrown/noteBook/issues/64)**
 46. **[第 46 题：Vue 的父组件和子组件生命周期钩子执行顺序是什么](https://github.com/ravencrown/noteBook/issues/65)**
